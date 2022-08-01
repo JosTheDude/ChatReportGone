@@ -1,0 +1,7 @@
+name: ChatReportsGone
+version: '${project.version}'
+main: xyz.joscodes.chatreportsgone.ChatReportsGone
+api-version: 1.19
+authors: [ Jos ]
+description: Disables Chat Reporting
+website: https://joscodes.xyz/
